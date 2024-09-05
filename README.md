@@ -1,3 +1,6 @@
+# ARCHIVED
+This repository is now ARCHIVED as it was merged in a pull request upstream.  Thanks to the original author!
+
 # Postal-Returned
 Modification of the Postal addon for vanilla WoW. Includes improved mail return functionality and some bug fixes
 
